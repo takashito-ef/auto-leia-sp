@@ -1,4 +1,4 @@
-// === Auto Leia SP Robust v2 (takashito & I.A) ===
+// === Auto Leia SP Robust v2 (takashito) ===
 // Cola no console da página do leitor: F12 -> Console -> cola -> Enter
 
 (function(){
@@ -36,7 +36,7 @@
   });
   painel.innerHTML = `
     <div style="display:flex; justify-content:space-between; align-items:center;">
-      <div><b>📖 Auto Leia SP</b><br><small>made by takashito & I.A</small></div>
+      <div><b>📖 Auto Leia SP</b><br><small>made by takashito</small></div>
       <div style="text-align:right"><button id="__autoLeiaClose" style="background:transparent;border:0;color:inherit;font-size:16px;cursor:pointer">✕</button></div>
     </div>
     <div style="margin-top:8px">
